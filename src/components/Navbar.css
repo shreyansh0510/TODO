@@ -1,0 +1,10 @@
+.navbar {
+  height: 76px;
+  box-shadow: 0 4px 6px darkgray;
+  margin-bottom: 10px;
+}
+
+.navbar-cardcontent {
+  display: flex;
+  float: right;
+}
